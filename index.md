@@ -1,10 +1,10 @@
-# Content First
+- [**Una Kravets**](./) <!-- Use `index.md` as well. `./` is a shortcut back to your home page `index.md` -->
+    - [Work](work/index.md)
+    - [Writing](writing/index.md)
+    - [About](about.md)
 
-## Portfolio
+![Me sitting in a podcasting seat in the studio.](img/portrait-studio-una.jpg)
 
-- [Content first](../index.md) <!-- Step out of this folder and link to your home page. See: Step 2 -->
-- [Design second](?) <!-- Link to Figma, Miro, Notion, etc. -->
+## Hello World, My name is Una, and I’m a web developer.
 
-## First Impression
-
-- [Draft content](/ajovt3-zs23-vskk/02-first-impression/)
+Oh, and I’m a podcaster, too. Learn more [about me](about.md).
