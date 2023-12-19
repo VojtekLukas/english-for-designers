@@ -7,5 +7,7 @@ Here is my story or my work if you are interested
 
 - [My Story](/aboutme.md) <!-- Step out of this folder and link to your home page. See: Step 2 -->
 - [My work](../work.md)
+- [CV](../CV.md)
+- [Contact](../Contact.md)
 
 q
