@@ -3,7 +3,7 @@ I am a photographer and video maker with a good sense of humour and a passion fo
 
 ![Hi thats me](/portret2.jpg) 
 ## you want to know me better?
-Here is my story or my work if you are interested
+You can read my story or just take a look at my work
 
 - [My Story](/aboutme.md) <!-- Step out of this folder and link to your home page. See: Step 2 -->
 - [My work](../work.md)
