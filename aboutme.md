@@ -6,4 +6,7 @@ I applied for a IT school because I was always enthusiastic about technology and
 
 # My Interests
 <p>As I said my interests is Photo and Video. I really enjoy writing/directing work as well as shooting and editing. Sometimes I do graphic work like logos, posters or menus for bars and restaurants. </p>
+<p>Also, thanks to our school, I am a little bit into marketing/advertising.</p>
+<p>Other than that, I enjoy a lot of sports. For 9 years I played floorball as a goalkeeper at AC Sparta Praha (till 2015), then I ended my “career” and for some time I was playing basketball. Now I am not in any professional team, but I am playing for HC Kapři Říčany which is a hobby beer league ice hockey team. </p>
+
 
