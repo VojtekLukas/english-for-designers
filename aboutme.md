@@ -6,3 +6,4 @@ I applied for a IT school because I was always enthusiastic about technology and
 
 # My Interests
 <p>As I said my interests is Photo and Video. I really enjoy writing/directing work as well as shooting and editing. Sometimes I do graphic work like logos, posters or menus for bars and restaurants. </p>
+
