@@ -5,6 +5,7 @@ I am a photographer and video maker with a good sense of humour and a passion fo
 ## you want to know me better?
 Here is my story or my work if you are interested
 
-- [My Story](../aboutme.md) <!-- Step out of this folder and link to your home page. See: Step 2 -->
-- [My work](../work.md) 
+- [My Story](/aboutme.md) <!-- Step out of this folder and link to your home page. See: Step 2 -->
+- [My work](../work.md)
 
+q
