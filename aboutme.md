@@ -10,3 +10,5 @@ I applied for a IT school because I was always enthusiastic about technology and
 <p>Other than that, I enjoy a lot of sports. For 9 years I played floorball as a goalkeeper at AC Sparta Praha (till 2015), then I ended my “career” and for some time I was playing basketball. Now I am not in any professional team, but I am playing for HC Kapři Říčany which is a hobby beer league ice hockey team. </p>
 
 <p>My other passion is winter sports. I am skiing since 2 years old and now during holidays I work as a Ski and SNB instructor at Vítkovice.</p>
+
+[Back to Main Page] (../index.md)
