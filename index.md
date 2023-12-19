@@ -1,10 +1,10 @@
-# Hi, I´m Lukas 
+# Hi, I’m Lukas 
+I am a photographer and video maker with a good sense of humour and a passion for great work.
 
-## Portfolio
 
-- [About me](../aboutme.md) <!-- Step out of this folder and link to your home page. See: Step 2 -->
-- [Design second](?) <!-- Link to Figma, Miro, Notion, etc. -->
+## you want to know me better?
+Here is my story or my work if you are interested
 
-## First Impression
+- [My Story](../aboutme.md) <!-- Step out of this folder and link to your home page. See: Step 2 -->
+- [My work](../work.md) 
 
-- [Draft content](/ajovt3-zs23-vskk/02-first-impression/)
