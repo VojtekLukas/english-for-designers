@@ -11,4 +11,4 @@ I applied for a IT school because I was always enthusiastic about technology and
 
 <p>My other passion is winter sports. I am skiing since 2 years old and now during holidays I work as a Ski and SNB instructor at Vítkovice.</p>
 
-![Back to Main Page] (../index.md)
+-[Back to Main Page](/index.md)
