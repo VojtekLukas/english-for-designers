@@ -13,7 +13,7 @@ I applied for a IT school because I was always enthusiastic about technology and
 <p>
  Naturally my other likes are music and films, sometimes videogames when i have time for that. 
  My favorite films are from Edgar Wright (i just love well writen and edited visual comedy) especially the Cornetto trilogy and films by Quentin Tarantino.
- My go to music genres are: DnB, Rap, and some experimental masterpieces. 
+ My go to music genres are: DnB, Rap, and some experimental masterpieces. Sometimes i also try to DJ in my bedroom just for fun and actually i played 2 gigs as a DJ for my friends Show (that one friend who got me into videomaking), but i do not consider it as my career path (yet?).
 </p>
 
 -[My Work](work.md)
