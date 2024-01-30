@@ -15,10 +15,14 @@ This was my most complex shoot. We wanted to create a film-like video clip other
 
 In 2022 i did complete visual of Café-Bar Baribal based in Jičín, i shoot promo pictures of foods and drinks, designed the logo and created the menu and wie list.
 Shortly after we shoot a short commercial for IG and few reels. 
+
 ![shooting some food](/jídlo_5.jpg) 
+
 **Philly (music video)**
 
 Music video that's curenty in making.
+
+![fhkj](/IMG_4817.jpg)
 
 **Modrobiom projekt (current long-term project)**
 
