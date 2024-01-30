@@ -8,6 +8,6 @@ You can read my story or just take a look at my work
 - [My Story](/aboutme.md) <!-- Step out of this folder and link to your home page. See: Step 2 -->
 - [My work](/work.md)
 - [CV](../CV.md)
-- [Contact](../Contact.md)
+- [Contact](Contact.md)
 
 q
