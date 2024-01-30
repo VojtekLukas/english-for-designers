@@ -14,4 +14,5 @@ I applied for a IT school because I was always enthusiastic about technology and
  Naturally my other likes are music and films, sometimes videogames when i have time for that. 
 </p>
 
+-[My Work](work.md)
 -[Back to Main Page](/index.md)
