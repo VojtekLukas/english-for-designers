@@ -27,6 +27,7 @@ Shortly after we shoot a short commercial for IG and few reels.
 
 Music video that's curenty in making.
 
+![philly projkect](foto2.JPG)
 
 
 **Modrobiom projekt (current long-term project)**
