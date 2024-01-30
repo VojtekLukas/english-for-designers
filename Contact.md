@@ -5,5 +5,5 @@
   Email: 08something.something@gmail.com
 </p>
 <p>
-  Instagram: 
+  Instagram: xx_luckass_xx
 </p>
