@@ -1,4 +1,4 @@
-# Hi, I’m Lukas Vojtek
+# Hi, I’m Lukas Vojtek (VoidTech)
 I am a photographer and video maker with a good sense of humour and a passion for great work, that helps clients comunicate their stories.
 
 ![Hi thats me](/portret2.jpg) 
