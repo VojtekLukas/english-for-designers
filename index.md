@@ -10,4 +10,6 @@ You can read my story or just take a look at my work
 - [CV](CV.md)
 - [Contact](Contact.md)
 
+- [Writing](Writing.md)
+
 
