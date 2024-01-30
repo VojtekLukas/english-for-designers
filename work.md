@@ -7,7 +7,12 @@ this project was my first music video that i have shoot and edited.
 
 **Travis Mayers Bysnysman (musicvideo)**
 
-This was my most complex shoot. We wanted to create a film-like video clip other than generic rap videos. The writing and shooting took about 2-3 weeks and during this project i started to think a little different about my style and it set light on direction that i would like to go. That is creating music videos with promyšlený stories 
+This was my most complex shoot. We wanted to create a film-like video clip other than generic rap videos. The writing and shooting took about 2-3 weeks and during this project i started to think a little different about my style and it set light on direction that i would like to go. That is creating music videos with coherent stories 
+
+**Café-Bar Baribal (logo, menu, photos)**
+
+In 2022 i did complete visual of Café-Bar Baribal based in Jičín, i shoot promo pictures of foods and drinks, designed the logo and created the menu and wie list.
+Shortly after we shoot a short commercial for IG and few reels. 
 
 
 <p>More detailed Portfolio on this website: UnderConstruction.com </p>
