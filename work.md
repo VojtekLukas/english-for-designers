@@ -25,7 +25,7 @@ Shortly after we shoot a short commercial for IG and few reels. This was my firs
 
 **Philly (music video)**
 
-Music video that's curenty in making.
+Music video that's curenty in making. In this video I am focusing on conecting close shots with whole shots with usage of color theory and rhytm in transitions.
 
 ![philly projkect](IMG_4817.JPG)
 
