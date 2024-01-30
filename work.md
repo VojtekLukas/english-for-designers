@@ -21,6 +21,8 @@ Shortly after we shoot a short commercial for IG and few reels.
 
 ![logo bar](bear-logo-FINAL-v1-krev.png)
 
+![FOOD](jidlo_5.jpg)
+
 **Philly (music video)**
 
 Music video that's curenty in making.
