@@ -1,4 +1,4 @@
-# Hi, I’m Lukas 
+# Hi, I’m Lukas Vojtek
 I am a photographer and video maker with a good sense of humour and a passion for great work.
 
 ![Hi thats me](/portret2.jpg) 
