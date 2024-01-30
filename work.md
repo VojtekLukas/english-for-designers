@@ -12,4 +12,4 @@ This was my most complex shoot. We wanted to create a film-like video clip other
 
 <p>More detailed Portfolio on this website: UnderConstruction.com </p>
 
-<p>[Back to Main Page](/index.md)</p>
+[Back to Main Page](/index.md)
