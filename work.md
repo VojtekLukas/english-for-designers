@@ -17,7 +17,7 @@ This was my most complex shoot. We wanted to create a film-like video clip other
 **Café-Bar Baribal (logo, menu, photos)**
 
 In 2022 i did complete visual of Café-Bar Baribal based in Jičín, i shoot promo pictures of foods and drinks, designed the logo and created the menu and wie list.
-Shortly after we shoot a short commercial for IG and few reels. 
+Shortly after we shoot a short commercial for IG and few reels. This was my first real cotract as a photographer and designer.
 
 ![logo bar](bear-logo-FINAL-v1-krev.png)
 
