@@ -5,5 +5,5 @@
   Email: 08something.something@gmail.com
 </p>
 <p>
-  [Instagram: xx_luckass_xx](https://www.instagram.com/xx_luckass_xx/)
+  -[Instagram: xx_luckass_xx](https://www.instagram.com/xx_luckass_xx/)
 </p>
