@@ -4,7 +4,6 @@
 
 this project was my first music video that i have shoot and edited. I really enjoyed the proces and this project really convinced me to take a turn in my career. Then i applied to my current uni.
 
-![Hi thats me](jídlo_5.jpg) 
 
 
 **Travis Mayers Bysnysman (music video)**
@@ -16,13 +15,13 @@ This was my most complex shoot. We wanted to create a film-like video clip other
 In 2022 i did complete visual of Café-Bar Baribal based in Jičín, i shoot promo pictures of foods and drinks, designed the logo and created the menu and wie list.
 Shortly after we shoot a short commercial for IG and few reels. 
 
-!(jidlo_5.jpg)
+
 
 **Philly (music video)**
 
 Music video that's curenty in making.
 
-![fhkj](/IMG_4817.jpg)
+
 
 **Modrobiom projekt (current long-term project)**
 
