@@ -12,6 +12,6 @@ You can read my story or just take a look at my work
 
 - [Writing](Writing.md)
 
--[Year In Review] (07-year-in-review.md)
+-[Year In Review](07-year-in-review.md)
 
 
