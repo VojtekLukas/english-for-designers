@@ -12,6 +12,6 @@ You can read my story or just take a look at my work
 
 - [Writing](Writing.md)
 
--[Year In Review] (https://github.com/VojtekLukas/english-for-designers/blob/main/07-year-in-review)
+-[Year In Review] (07-year-in-review.md)
 
 
