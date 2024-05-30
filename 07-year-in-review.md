@@ -9,6 +9,7 @@ At the start of this academic year, I went through series of illnesses. First, I
 <H2>What i learned</H2>
 <p>
   This year I learned a lot. First, I would think beforehand that I will have to dust off my web coding knowledge from high school thanks to github xD. Well maybe I will get back to it in future.
+  Related to our English for Designers course I’ve learned to speak better. Or at least I’ve got more certitude and courage in public speaking. Which I am thankful for. I’ve even started to think in English when I need to speak so I can easily switch in different language which I find really helpful.
 </p>
 
 
