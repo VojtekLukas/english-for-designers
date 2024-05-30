@@ -15,7 +15,7 @@ At the start of this academic year, I went through series of illnesses. First, I
 <p>
   Then I learned a lot about myself. I started dealing with stress better and overall, I started feeling better about myself and my future. 
 </p>
-<H3>Improving Further</H3>
+<H2>Improving Further</H2>
 <p>
   To the future improvements. I look up to getting better in English especially in professional language and specific terms in my field. 
 </p>
