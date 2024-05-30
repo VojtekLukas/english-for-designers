@@ -1,6 +1,6 @@
 <H1>One Word</H1>
 
-##DEADLINE 
+## DEADLINE 
 <p>
   Deadline. The word that can ruin my day, week even month. When everything goes well you have fun at school enjoying life teacher or boss is describing some interesting tasks and then it comes. 
   That word. DEADLINE. Why does this word even exist? Whose idea was to connect the words “Dead” and “Line”. Are we in some stupid B grade horror? Well, tell me who invented it, and I am gonna put him there.
