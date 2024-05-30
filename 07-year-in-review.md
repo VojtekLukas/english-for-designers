@@ -30,9 +30,9 @@ At the start of this academic year, I went through series of illnesses. First, I
   So, thank you all for this amazing year and iam looking forward to new challenges, new opportunities, and new experiences, because there are always many things to enjoy.
 </p>
 <p>
-See you next year 😊
-Lukas 
-
+See you next year 😊 </p>
+<p>
+  Lukas 
 </p>
 
 
