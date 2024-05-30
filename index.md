@@ -10,8 +10,8 @@ You can read my story or just take a look at my work
 
 - [Contact](Contact.md)
 
-- [Writing](Writing.md)
 
+- [07Year In Review](07-year-in-review.md)
 - [07Year In Review](07-year-in-review.md)
 
 
