@@ -42,5 +42,7 @@ Most of the time I speak and write informal. I just think that that’s the natu
   I really hate hypocrisy so I am always as authentic as I can. I think that this is the only way to create true partnerships, without any dissimulations.
 </p>
 
+-[Back to Main Page](/index.md)
+
 
 
