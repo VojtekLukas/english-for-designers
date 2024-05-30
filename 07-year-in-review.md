@@ -12,5 +12,8 @@ At the start of this academic year, I went through series of illnesses. First, I
   <p>
   Related to our English for Designers course I’ve learned to speak better. Or at least I’ve got more certitude and courage in public speaking. Which I am thankful for. I’ve even started to think in English when I need to speak so I can easily switch in different language which I find really helpful.
 </p>
+<p>
+  Then I learned a lot about myself. I started dealing with stress better and overall, I started feeling better about myself and my future. 
+</p>
 
 
