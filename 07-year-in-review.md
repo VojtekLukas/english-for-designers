@@ -6,3 +6,9 @@ At the start of this academic year, I went through series of illnesses. First, I
 
 </p>
 
+<H2>What i learned</H2>
+<p>
+  This year I learned a lot. First, I would think beforehand that I will have to dust off my web coding knowledge from high school thanks to github xD. Well maybe I will get back to it in future.
+</p>
+
+
