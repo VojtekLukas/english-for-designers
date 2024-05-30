@@ -20,7 +20,7 @@ At the start of this academic year, I went through series of illnesses. First, I
   To the future improvements. I look up to getting better in English especially in professional language and specific terms in my field. 
 </p>
 <p>
-  Then I would like to more explore myself and search for good place in creative industry that I will like. 
+  Then I would like to explore more of myself and search for good place in creative industry that I will like. 
 </p>
 <H2>The End</H2>
 <p>
