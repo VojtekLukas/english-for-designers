@@ -22,6 +22,18 @@ At the start of this academic year, I went through series of illnesses. First, I
 <p>
   Then I would like to more explore myself and search for good place in creative industry that I will like. 
 </p>
+<H2>The End</H2>
+<p>
+  After all the obstacles it was a great year. You always have to end optimistic xD. Ive learned a lot a I really enjoyed the time spent in school. Even at the boring lectures (NOT THIS ONE) there’s always something good. I’ve had spent a lot of time with my new friends with I really appreciate, because, in my eyes, friendship and love are the best things in life to enjoy.
+</p>
+<p>
+  So, thank you all for this amazing year and iam looking forward to new challenges, new opportunities, and new experiences, because there are always many things to enjoy.
+</p>
+<p>
+See you next year 😊
+Lukas 
+
+</p>
 
 
 
